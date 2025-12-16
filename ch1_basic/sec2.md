@@ -1,6 +1,6 @@
 > 강의: 3~5 과제
 
-<details><summary><h2>과제3<h2></summary>
+<details><summary>과제3</summary>
 
 #### 문제 1. 사용자 정보를 나타내는 인터페이스와 타입을 작성하세요. 사용자 정보는 다음과 같은 구조를 가집니다:
 
@@ -207,7 +207,7 @@ const guest: GuestUser = {
 
 </details>
 
-<details><summary><h2>과제5<h2></summary>
+<details><summary><h4>과제5<h4></summary>
 
 #### 문제 1. 작업의 상태를 나타내는 enum을 작성하고, 상태에 따라 다른 메시지를 반환하는 함수를 작성하세요.
 
